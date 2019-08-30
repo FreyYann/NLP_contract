@@ -1,0 +1,9 @@
+1.	Point 11- We are fine with weekly invoicing and Net 15 as payment terms but not after receipt of payment from client from client. 
+Please change THE CLAUSE “TechLink shall pay all fees owing to Contractor hereunder within fifteen (15) days of TechLink’s receipt of payment from Client Invoice from Contractor. Contractor shall not be eligible for payment for Services that are not approved by Client and for which TechLink has not been paid.
+2.	Point 14- Last Para- Please remove injunctive relief any remedy for the breach will be decided by court of law.
+             “Without limiting the other rights and remedies of TechLink and Client, in the event of an actual or threatened breach by Contractor or its personnel of the provisions of this paragraph, TechLink and Client shall be           entitled to injunctive relief .remedies as decided by court of law.
+3.	Point 17a (2)&(3)- We agree not to provide any services ‘directly’ to the client (which is 17a(1)). However, we may have our vendors working with the same client and we should be able to work with them. So, please remove 17a(2)&(3).
+4.	Point 17( c )- please remove “indirectly” for the same reason mentioned above.
+5.	Point 17 (d)- Please have injunctive relief removed. As mentioned earlier any remedy for the breach will be decided by court of law.
+6.	Point 18- We do not work C2H, we do only C2C. Please remove the hiring clause and add following non-solicitation clause.   
+Techlink agrees that for the duration of the agreement  and period of twelve (12) months from the date of termination of this Agreement or any associated Work Order, Techlink and their client will not, directly or indirectly, employ or solicit to employ or offer employment in any kind to any of contractor’s employee, officer, contractor or individual with whom Techlink or their clients has had any contact, or of whom Techlink and their clients have become aware, in connection with the Services.”

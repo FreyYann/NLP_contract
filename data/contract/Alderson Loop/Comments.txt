@@ -1,0 +1,5 @@
+1.	Non-Disclosure and Non-Solicitation- Point 2- We agree not to provide services to the client ‘directly’. However we may have our vendors working for same client . So , please remove indirectly. Also in the MSA- Point 7.
+2.	Non-Disclosure and Non-Solicitation- Point 4.4- Please remove injunction relief. Any remedy for the breach will be decided by court of law. 
+3.	MSA- Point 8.1- Please have this changed to the following “ALoop agrees ALoop and their clients will not to hire as an employee, directly or indirectly, any Staff of Contractor without the prior consent of Contractor, for a period of (a) six (6) twelve (12) months after the commencement of the Work Order under which such Staff was assigned to ALoop and/or Client, or (b) if the Staff was not assigned to ALoop and/or Client, six (6) twelve (12) months, following the introduction of such Staff to ALoop and/or Client by Contractor. The term “Staff of Contractor” is defined in Section 12.1.
+4.	MSA- Point 8.2- We do not work C2H. We do only C2C.
+5.	MSA- Point 9.1- Please include work order along with this agreement.

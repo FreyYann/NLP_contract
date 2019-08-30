@@ -1,0 +1,556 @@
+[I 14:20:00.784 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 14:20:01.343 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 14:20:01.361 NotebookApp] JupyterLab extension loaded from /home/itlize/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 14:20:01.361 NotebookApp] JupyterLab application directory is /home/itlize/anaconda3/share/jupyter/lab
+[I 14:20:01.362 NotebookApp] Serving notebooks from local directory: /home/ItDev_Billy/NLP_contract
+[I 14:20:01.362 NotebookApp] The Jupyter Notebook is running at:
+[I 14:20:01.362 NotebookApp] http://(itlize-System-Product-Name or 127.0.0.1):8000/
+[I 14:20:01.362 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:20:12.006 NotebookApp] 302 GET / (192.168.1.65) 1.20ms
+[W 14:20:12.025 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[W 14:20:12.025 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[I 14:20:12.026 NotebookApp] 302 GET /tree? (192.168.1.65) 2.35ms
+[W 14:20:14.752 NotebookApp] Not allowing login redirect to '/tree?'
+[I 14:20:14.753 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.65) 1.73ms
+[I 14:20:14.759 NotebookApp] 302 GET / (192.168.1.65) 0.64ms
+[I 14:21:16.505 NotebookApp] 302 GET / (192.168.1.65) 0.66ms
+[W 14:21:36.223 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[W 14:21:36.224 NotebookApp] Forbidden
+[W 14:21:36.225 NotebookApp] 403 GET /api/contents/src/Process%20data.ipynb?content=0&_=1565279377686 (192.168.1.232) 1.90ms referer=http://192.168.1.217:8000/notebooks/src/Process%20data.ipynb
+[W 14:21:36.244 NotebookApp] Forbidden
+[W 14:21:36.245 NotebookApp] 403 PUT /api/contents/src/Process%20data.ipynb (192.168.1.232) 7.21ms referer=http://192.168.1.217:8000/notebooks/src/Process%20data.ipynb
+[W 14:21:48.171 NotebookApp] Couldn't authenticate WebSocket connection
+[W 14:21:48.196 NotebookApp] 403 GET /api/kernels/c71db2e0-f960-4988-8971-5a31a3db631c/channels?session_id=55fee8a55d234f3fa13b9663f30cf0cf (192.168.1.232) 27.49ms referer=None
+[W 14:21:49.345 NotebookApp] Couldn't authenticate WebSocket connection
+[W 14:21:49.348 NotebookApp] 403 GET /api/kernels/c71db2e0-f960-4988-8971-5a31a3db631c/channels?session_id=55fee8a55d234f3fa13b9663f30cf0cf (192.168.1.232) 5.04ms referer=None
+[I 14:21:53.580 NotebookApp] 302 GET / (192.168.1.232) 0.67ms
+[I 14:21:53.589 NotebookApp] 302 GET /tree? (192.168.1.232) 0.87ms
+[W 14:21:55.885 NotebookApp] Not allowing login redirect to '/tree?'
+[I 14:21:55.886 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.232) 1.66ms
+[I 14:21:55.893 NotebookApp] 302 GET / (192.168.1.232) 0.63ms
+[I 14:22:01.438 NotebookApp] Kernel started: 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 14:22:01.794 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 14:23:37.145 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:24:14.311 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:d253077e5f864e328927f596fd5d57e1
+[I 14:24:14.783 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 14:26:14.794 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:28:15.154 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:30:14.796 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:32:14.832 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:34:14.800 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:36:14.790 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:38:14.795 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:40:14.809 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:44:15.156 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:46:01.750 NotebookApp] Kernel started: bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 14:46:02.248 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 14:46:13.448 NotebookApp] Kernel started: 552b4773-e7d7-43c0-b7e8-711c525b95ad
+[I 14:46:13.802 NotebookApp] Adapting to protocol v5.1 for kernel 552b4773-e7d7-43c0-b7e8-711c525b95ad
+[I 14:46:15.157 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:46:29.103 NotebookApp] Starting buffering for 552b4773-e7d7-43c0-b7e8-711c525b95ad:6eaadb75f2c64493b833504a02a8b9f9
+[I 14:46:37.947 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 14:47:11.659 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:48:01.776 NotebookApp] Saving file at /src/NLP.ipynb
+[I 14:50:14.797 NotebookApp] Saving file at /src/Process data.ipynb
+[I 14:58:02.337 NotebookApp] Saving file at /src/NLP.ipynb
+[I 15:02:01.777 NotebookApp] Saving file at /src/NLP.ipynb
+[I 15:02:26.976 NotebookApp] 302 GET / (192.168.1.229) 0.85ms
+[W 15:02:26.987 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[W 15:02:26.987 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[I 15:02:26.988 NotebookApp] 302 GET /tree? (192.168.1.229) 1.95ms
+[W 15:02:29.830 NotebookApp] Not allowing login redirect to '/tree?'
+[I 15:02:29.831 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.229) 1.87ms
+[I 15:02:29.847 NotebookApp] 302 GET / (192.168.1.229) 0.65ms
+[I 15:02:56.243 NotebookApp] Saving file at /doc/Contract Sections Documentation
+[I 15:04:51.991 NotebookApp] Adapting to protocol v5.1 for kernel 552b4773-e7d7-43c0-b7e8-711c525b95ad
+[I 15:06:52.835 NotebookApp] Saving file at /src/Extract Label.ipynb
+[I 15:08:52.450 NotebookApp] Saving file at /src/Extract Label.ipynb
+[I 15:14:14.820 NotebookApp] Saving file at /src/Process data.ipynb
+[I 15:16:01.806 NotebookApp] Saving file at /src/NLP.ipynb
+[I 15:16:15.187 NotebookApp] Saving file at /src/Process data.ipynb
+[I 15:17:01.054 NotebookApp] Kernel interrupted: bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 15:18:01.783 NotebookApp] Saving file at /src/NLP.ipynb
+[I 15:20:01.775 NotebookApp] Saving file at /src/NLP.ipynb
+[I 15:26:14.832 NotebookApp] Saving file at /src/Process data.ipynb
+[I 15:28:14.806 NotebookApp] Saving file at /src/Process data.ipynb
+[I 15:30:14.807 NotebookApp] Saving file at /src/Process data.ipynb
+[I 15:30:51.958 NotebookApp] Saving file at /src/Extract Label.ipynb
+[I 15:32:51.962 NotebookApp] Saving file at /src/Extract Label.ipynb
+[I 15:34:29.191 NotebookApp] Kernel interrupted: bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 15:34:52.734 NotebookApp] Saving file at /src/Extract Label.ipynb
+[I 15:36:02.196 NotebookApp] Saving file at /src/NLP.ipynb
+[W 16:03:51.996 NotebookApp] WebSocket ping timeout after 119804 ms.
+[I 16:03:56.998 NotebookApp] Starting buffering for 552b4773-e7d7-43c0-b7e8-711c525b95ad:f1a76ce21d454c0bb2728dc1b15689f4
+[I 16:04:04.218 NotebookApp] Adapting to protocol v5.1 for kernel 552b4773-e7d7-43c0-b7e8-711c525b95ad
+[I 16:04:04.220 NotebookApp] Restoring connection for 552b4773-e7d7-43c0-b7e8-711c525b95ad:f1a76ce21d454c0bb2728dc1b15689f4
+[E 16:04:04.233 NotebookApp] Uncaught exception GET /api/kernels/552b4773-e7d7-43c0-b7e8-711c525b95ad/channels?session_id=f1a76ce21d454c0bb2728dc1b15689f4 (192.168.1.65)
+    HTTPServerRequest(protocol='http', host='192.168.1.217:8000', method='GET', uri='/api/kernels/552b4773-e7d7-43c0-b7e8-711c525b95ad/channels?session_id=f1a76ce21d454c0bb2728dc1b15689f4', version='HTTP/1.1', remote_ip='192.168.1.65')
+    Traceback (most recent call last):
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/web.py", line 1699, in _execute
+        result = await result
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 241, in get
+        yield super(ZMQChannelsHandler, self).get(kernel_id=kernel_id)
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+        value = future.result()
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 297, in get
+        yield gen.maybe_future(res)
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+        value = future.result()
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/websocket.py", line 278, in get
+        await self.ws_connection.accept_connection(self)
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/websocket.py", line 881, in accept_connection
+        await self._accept_connection(handler)
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/websocket.py", line 964, in _accept_connection
+        await self._receive_frame_loop()
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/websocket.py", line 1118, in _receive_frame_loop
+        await self._receive_frame()
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/websocket.py", line 1130, in _receive_frame
+        data = await self._read_bytes(2)
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/websocket.py", line 1124, in _read_bytes
+        data = await self.stream.read_bytes(n)
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/iostream.py", line 436, in read_bytes
+        future = self._start_read()
+      File "/home/itlize/anaconda3/lib/python3.7/site-packages/tornado/iostream.py", line 797, in _start_read
+        assert self._read_future is None, "Already reading"
+    AssertionError: Already reading
+[I 16:04:06.594 NotebookApp] Adapting to protocol v5.1 for kernel 552b4773-e7d7-43c0-b7e8-711c525b95ad
+[W 16:04:06.623 NotebookApp] zmq message arrived on closed channel
+[W 16:04:06.626 NotebookApp] zmq message arrived on closed channel
+[W 17:00:14.786 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 17:00:19.788 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[W 17:00:32.252 NotebookApp] WebSocket ping timeout after 119993 ms.
+[I 17:00:37.253 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[W 17:23:06.598 NotebookApp] WebSocket ping timeout after 119903 ms.
+[I 17:23:11.600 NotebookApp] Starting buffering for 552b4773-e7d7-43c0-b7e8-711c525b95ad:f1a76ce21d454c0bb2728dc1b15689f4
+[I 09:44:11.584 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 09:44:11.585 NotebookApp] Restoring connection for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 09:44:12.571 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 09:44:12.572 NotebookApp] Restoring connection for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[W 17:04:11.586 NotebookApp] WebSocket ping timeout after 119993 ms.
+[W 17:04:12.573 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 17:04:16.587 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 17:04:17.576 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[I 09:36:15.924 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 09:36:15.925 NotebookApp] Restoring connection for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[I 09:36:15.948 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 09:36:15.949 NotebookApp] Restoring connection for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 15:52:42.392 NotebookApp] 302 GET / (192.168.1.193) 0.85ms
+[I 15:52:42.423 NotebookApp] 302 GET /tree? (192.168.1.193) 0.94ms
+[I 16:12:19.229 NotebookApp] 302 GET / (192.168.1.71) 0.84ms
+[I 16:12:19.303 NotebookApp] 302 GET /tree? (192.168.1.71) 0.93ms
+[I 16:55:31.508 NotebookApp] 302 GET / (192.168.1.232) 0.96ms
+[W 17:03:15.928 NotebookApp] WebSocket ping timeout after 119936 ms.
+[W 17:03:15.949 NotebookApp] WebSocket ping timeout after 119958 ms.
+[I 17:03:20.930 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[I 17:03:20.951 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 09:34:39.639 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 09:34:39.641 NotebookApp] Restoring connection for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 09:34:40.549 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 09:34:40.550 NotebookApp] Restoring connection for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[W 09:39:39.644 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 09:39:40.551 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 09:39:44.647 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 09:39:45.554 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[I 09:40:21.774 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 09:40:21.775 NotebookApp] Restoring connection for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 09:41:26.530 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 09:41:26.532 NotebookApp] Restoring connection for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[W 09:48:55.378 NotebookApp] 400 GET /api/contents/data/contract_1/Aquinas/Aquinas%20confidentiality%20and%20non%20compete%20agreement%20for%20third%20party%20subcon....docx?type=file&format=text&_=1565704135913 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Aquinas/Aquinas confidentiality and non compete agreement for third party subcon....docx is not UTF-8 encoded
+[W 09:48:55.378 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Aquinas/Aquinas confidentiality and non compete agreement for third party subcon....docx is not UTF-8 encoded
+[W 09:48:55.379 NotebookApp] 400 GET /api/contents/data/contract_1/Aquinas/Aquinas%20confidentiality%20and%20non%20compete%20agreement%20for%20third%20party%20subcon....docx?type=file&format=text&_=1565704135913 (192.168.1.232) 2.11ms referer=http://192.168.1.217:8000/edit/data/contract_1/Aquinas/Aquinas%20confidentiality%20and%20non%20compete%20agreement%20for%20third%20party%20subcon....docx
+[W 09:48:58.175 NotebookApp] 400 GET /api/contents/data/contract_1/Aquinas/Aquinas%20Independent%20Contractor%20Agreement%20-%20Itlize%20Global%20LLC..docx?type=file&format=text&_=1565704138738 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Aquinas/Aquinas Independent Contractor Agreement - Itlize Global LLC..docx is not UTF-8 encoded
+[W 09:48:58.175 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Aquinas/Aquinas Independent Contractor Agreement - Itlize Global LLC..docx is not UTF-8 encoded
+[W 09:48:58.175 NotebookApp] 400 GET /api/contents/data/contract_1/Aquinas/Aquinas%20Independent%20Contractor%20Agreement%20-%20Itlize%20Global%20LLC..docx?type=file&format=text&_=1565704138738 (192.168.1.232) 2.00ms referer=http://192.168.1.217:8000/edit/data/contract_1/Aquinas/Aquinas%20Independent%20Contractor%20Agreement%20-%20Itlize%20Global%20LLC..docx
+[I 09:52:11.253 NotebookApp] Saving file at /src/Process data.ipynb
+[I 09:54:11.615 NotebookApp] Saving file at /src/Process data.ipynb
+[I 09:56:11.615 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:01:02.315 NotebookApp] Kernel interrupted: 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:02:11.241 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:04:11.259 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:06:12.165 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:07:42.819 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:754bba42864f4c8a8846a9dcc08a2ea1
+[I 10:07:51.466 NotebookApp] Adapting to protocol v5.1 for kernel 552b4773-e7d7-43c0-b7e8-711c525b95ad
+[W 10:07:51.507 NotebookApp] zmq message arrived on closed channel
+[W 10:07:51.510 NotebookApp] zmq message arrived on closed channel
+[I 10:07:53.699 NotebookApp] Starting buffering for 552b4773-e7d7-43c0-b7e8-711c525b95ad:f64848aeb6284c69887a71c5af40d283
+[I 10:07:55.743 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:09:11.103 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:da5fa3ee392c44fb940efedd08ae4cff
+[I 10:09:20.741 NotebookApp] Adapting to protocol v5.1 for kernel 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:09:20.742 NotebookApp] Restoring connection for 2e40a54a-e644-43ce-a497-b50e477aca7d:da5fa3ee392c44fb940efedd08ae4cff
+[I 10:09:57.086 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:10:40.310 NotebookApp] Kernel interrupted: 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:10:52.094 NotebookApp] Kernel interrupted: 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:10:52.279 NotebookApp] Kernel interrupted: 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:10:55.055 NotebookApp] Starting buffering for 2e40a54a-e644-43ce-a497-b50e477aca7d:da5fa3ee392c44fb940efedd08ae4cff
+[I 10:10:59.179 NotebookApp] Kernel shutdown: 2e40a54a-e644-43ce-a497-b50e477aca7d
+[I 10:11:01.512 NotebookApp] Kernel started: a621c84b-be9e-4653-82df-025b009af1e6
+[I 10:11:01.898 NotebookApp] Adapting to protocol v5.1 for kernel a621c84b-be9e-4653-82df-025b009af1e6
+[I 10:13:01.580 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:15:03.546 NotebookApp] Saving file at /src/Process data.ipynb
+[W 10:16:48.514 NotebookApp] 400 GET /api/contents/data/contract_1/Aquinas/Aquinas%20confidentiality%20and%20non%20compete%20agreement%20for%20third%20party%20subcon....docx?type=file&format=text&_=1565705809062 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Aquinas/Aquinas confidentiality and non compete agreement for third party subcon....docx is not UTF-8 encoded
+[W 10:16:48.514 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Aquinas/Aquinas confidentiality and non compete agreement for third party subcon....docx is not UTF-8 encoded
+[W 10:16:48.514 NotebookApp] 400 GET /api/contents/data/contract_1/Aquinas/Aquinas%20confidentiality%20and%20non%20compete%20agreement%20for%20third%20party%20subcon....docx?type=file&format=text&_=1565705809062 (192.168.1.232) 2.13ms referer=http://192.168.1.217:8000/edit/data/contract_1/Aquinas/Aquinas%20confidentiality%20and%20non%20compete%20agreement%20for%20third%20party%20subcon....docx
+[I 10:17:01.540 NotebookApp] Saving file at /src/Process data.ipynb
+[W 10:17:19.555 NotebookApp] 400 GET /api/contents/data/contract_1/Artech/Aquinas%20Independent%20Contractor%20Agreement%20-%20Itlize%20Global%20LLC..docx?type=file&format=text&_=1565705840081 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Artech/Aquinas Independent Contractor Agreement - Itlize Global LLC..docx is not UTF-8 encoded
+[W 10:17:19.555 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Artech/Aquinas Independent Contractor Agreement - Itlize Global LLC..docx is not UTF-8 encoded
+[W 10:17:19.555 NotebookApp] 400 GET /api/contents/data/contract_1/Artech/Aquinas%20Independent%20Contractor%20Agreement%20-%20Itlize%20Global%20LLC..docx?type=file&format=text&_=1565705840081 (192.168.1.232) 2.10ms referer=http://192.168.1.217:8000/edit/data/contract_1/Artech/Aquinas%20Independent%20Contractor%20Agreement%20-%20Itlize%20Global%20LLC..docx
+[W 10:17:28.137 NotebookApp] 400 GET /api/contents/data/contract_1/GDH/SSA.doc?type=file&format=text&_=1565705848684 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/GDH/SSA.doc is not UTF-8 encoded
+[W 10:17:28.137 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/GDH/SSA.doc is not UTF-8 encoded
+[W 10:17:28.138 NotebookApp] 400 GET /api/contents/data/contract_1/GDH/SSA.doc?type=file&format=text&_=1565705848684 (192.168.1.232) 2.05ms referer=http://192.168.1.217:8000/edit/data/contract_1/GDH/SSA.doc
+[I 10:19:01.645 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:19:58.228 NotebookApp] Saving file at /src/NLP.ipynb
+[W 10:20:09.746 NotebookApp] 400 GET /api/contents/data/contract_1/GDH/SSA.doc?type=file&format=text&_=1565706010223 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/GDH/SSA.doc is not UTF-8 encoded
+[W 10:20:09.746 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/GDH/SSA.doc is not UTF-8 encoded
+[W 10:20:09.747 NotebookApp] 400 GET /api/contents/data/contract_1/GDH/SSA.doc?type=file&format=text&_=1565706010223 (192.168.1.232) 2.11ms referer=http://192.168.1.217:8000/edit/data/contract_1/GDH/SSA.doc
+[W 10:20:11.966 NotebookApp] 400 GET /api/contents/data/contract_1/GDH/Comment.txt?type=file&format=text&_=1565706012521 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/GDH/Comment.txt is not UTF-8 encoded
+[W 10:20:11.966 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/GDH/Comment.txt is not UTF-8 encoded
+[W 10:20:11.967 NotebookApp] 400 GET /api/contents/data/contract_1/GDH/Comment.txt?type=file&format=text&_=1565706012521 (192.168.1.232) 2.01ms referer=http://192.168.1.217:8000/edit/data/contract_1/GDH/Comment.txt
+[W 10:20:16.400 NotebookApp] 400 GET /api/contents/data/contract_1/Alderson%20Loop/Alderson%20loop.docx?type=file&format=text&_=1565706016963 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Alderson Loop/Alderson loop.docx is not UTF-8 encoded
+[W 10:20:16.400 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Alderson Loop/Alderson loop.docx is not UTF-8 encoded
+[W 10:20:16.400 NotebookApp] 400 GET /api/contents/data/contract_1/Alderson%20Loop/Alderson%20loop.docx?type=file&format=text&_=1565706016963 (192.168.1.232) 1.95ms referer=http://192.168.1.217:8000/edit/data/contract_1/Alderson%20Loop/Alderson%20loop.docx
+[I 10:20:53.172 NotebookApp] 302 GET / (192.168.1.229) 0.77ms
+[I 10:21:58.671 NotebookApp] Saving file at /src/NLP.ipynb
+[I 10:22:04.631 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:22:04.684 NotebookApp] Starting buffering for a621c84b-be9e-4653-82df-025b009af1e6:a94dcb0a895a44ba8fb88054d8eb212d
+[I 10:22:06.423 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:1f69e94631fe4810a51c9ea1a57b7825
+[I 10:47:19.852 NotebookApp] 302 GET / (192.168.1.232) 0.83ms
+[I 10:47:25.172 NotebookApp] Adapting to protocol v5.1 for kernel a621c84b-be9e-4653-82df-025b009af1e6
+[W 10:47:59.739 NotebookApp] 400 GET /api/contents/data/contract_1/Alderson%20Loop/~%24derson%20loop.docx?type=file&format=text&_=1565707680825 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Alderson Loop/~$derson loop.docx is not UTF-8 encoded
+[W 10:47:59.739 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Alderson Loop/~$derson loop.docx is not UTF-8 encoded
+[W 10:47:59.740 NotebookApp] 400 GET /api/contents/data/contract_1/Alderson%20Loop/~%24derson%20loop.docx?type=file&format=text&_=1565707680825 (192.168.1.232) 2.06ms referer=http://192.168.1.217:8000/edit/data/contract_1/Alderson%20Loop/~%24derson%20loop.docx
+[I 10:49:05.808 NotebookApp] Copying data/contract_1/Alderson Loop/Alderson loop.docx to /data/contract_1/Alderson Loop
+[I 10:49:25.808 NotebookApp] Saving file at /src/Process data.ipynb
+[W 10:50:52.630 NotebookApp] delete /src/Alderson loop-Copy.docx
+[I 10:51:14.820 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 10:51:25.841 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:53:14.777 NotebookApp] Saving file at /src/NLP.ipynb
+[I 10:53:25.810 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:53:26.108 NotebookApp] Creating new notebook in /src
+[I 10:53:26.905 NotebookApp] Kernel started: 739b7376-aff4-4f1a-ae49-bfc79e361b7d
+[I 10:53:27.309 NotebookApp] Adapting to protocol v5.1 for kernel 739b7376-aff4-4f1a-ae49-bfc79e361b7d
+[I 10:55:25.433 NotebookApp] Saving file at /src/Process data.ipynb
+[I 10:55:26.735 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 10:57:26.708 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 10:59:26.703 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:01:26.707 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:03:26.712 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:05:26.683 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:07:26.676 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:09:26.678 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:11:26.737 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:15:25.745 NotebookApp] Saving file at /src/Process data.ipynb
+[I 11:17:26.701 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:19:26.702 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:21:26.719 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:23:26.695 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:31:26.850 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:33:11.940 NotebookApp] Starting buffering for a621c84b-be9e-4653-82df-025b009af1e6:053bca3fdc79444c8ddee5754c9006c2
+[W 11:34:46.927 NotebookApp] 400 GET /api/contents/data/contract_1/Alderson%20Loop/Alderson%20loop.docx?type=file&format=text&_=1565710488011 (192.168.1.232): /home/ItDev_Billy/NLP_contract/data/contract_1/Alderson Loop/Alderson loop.docx is not UTF-8 encoded
+[W 11:34:46.928 NotebookApp] /home/ItDev_Billy/NLP_contract/data/contract_1/Alderson Loop/Alderson loop.docx is not UTF-8 encoded
+[W 11:34:46.928 NotebookApp] 400 GET /api/contents/data/contract_1/Alderson%20Loop/Alderson%20loop.docx?type=file&format=text&_=1565710488011 (192.168.1.232) 2.04ms referer=http://192.168.1.217:8000/edit/data/contract_1/Alderson%20Loop/Alderson%20loop.docx
+[I 11:35:26.808 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:37:26.690 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 11:39:26.731 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 12:03:14.946 NotebookApp] Saving file at /src/NLP.ipynb
+[I 12:11:46.753 NotebookApp] Adapting to protocol v5.1 for kernel a621c84b-be9e-4653-82df-025b009af1e6
+[I 12:13:26.788 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 12:13:46.835 NotebookApp] Saving file at /src/Process data.ipynb
+[I 12:15:27.539 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 12:37:27.221 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 14:55:26.814 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 14:57:26.816 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:03:26.946 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:27:26.881 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:29:27.030 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:31:26.906 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:37:26.859 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:39:26.859 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:43:26.826 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:49:26.858 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:51:26.910 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:53:26.874 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:55:27.070 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:57:26.829 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 15:59:26.892 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:01:26.849 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:03:26.859 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:07:26.859 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:09:26.855 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:11:26.863 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:13:26.900 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:15:26.837 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:17:26.871 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:19:26.851 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:21:26.840 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:23:41.406 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:33:41.528 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:36:11.588 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:38:41.536 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:41:11.540 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 16:43:41.529 NotebookApp] Saving file at /src/Untitled.ipynb
+[I 17:00:05.352 NotebookApp] Starting buffering for a621c84b-be9e-4653-82df-025b009af1e6:85009258576b434584babfe7917d9a4f
+[I 17:00:05.353 NotebookApp] Starting buffering for 739b7376-aff4-4f1a-ae49-bfc79e361b7d:8639a6179b1a475a887b017a32af82b1
+[I 17:00:05.353 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:8d9138d8e0c74ac88d013b36667913c6
+[I 09:35:17.680 NotebookApp] Adapting to protocol v5.1 for kernel a621c84b-be9e-4653-82df-025b009af1e6
+[I 09:35:17.681 NotebookApp] Restoring connection for a621c84b-be9e-4653-82df-025b009af1e6:85009258576b434584babfe7917d9a4f
+[I 09:35:17.752 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 09:35:17.752 NotebookApp] Restoring connection for bf688e7b-dbfe-4e2d-8557-7f283af85f59:8d9138d8e0c74ac88d013b36667913c6
+[I 09:35:17.961 NotebookApp] Adapting to protocol v5.1 for kernel 739b7376-aff4-4f1a-ae49-bfc79e361b7d
+[I 09:35:17.961 NotebookApp] Restoring connection for 739b7376-aff4-4f1a-ae49-bfc79e361b7d:8639a6179b1a475a887b017a32af82b1
+[I 15:24:00.432 NotebookApp] 302 GET / (192.168.1.232) 0.78ms
+[I 16:59:00.844 NotebookApp] Starting buffering for 739b7376-aff4-4f1a-ae49-bfc79e361b7d:8639a6179b1a475a887b017a32af82b1
+[I 16:59:00.844 NotebookApp] Starting buffering for bf688e7b-dbfe-4e2d-8557-7f283af85f59:8d9138d8e0c74ac88d013b36667913c6
+[I 16:59:00.844 NotebookApp] Starting buffering for a621c84b-be9e-4653-82df-025b009af1e6:85009258576b434584babfe7917d9a4f
+[I 09:43:24.376 NotebookApp] Adapting to protocol v5.1 for kernel a621c84b-be9e-4653-82df-025b009af1e6
+[I 09:43:24.377 NotebookApp] Restoring connection for a621c84b-be9e-4653-82df-025b009af1e6:85009258576b434584babfe7917d9a4f
+[I 09:43:24.402 NotebookApp] Adapting to protocol v5.1 for kernel 739b7376-aff4-4f1a-ae49-bfc79e361b7d
+[I 09:43:24.403 NotebookApp] Restoring connection for 739b7376-aff4-4f1a-ae49-bfc79e361b7d:8639a6179b1a475a887b017a32af82b1
+[I 09:43:24.454 NotebookApp] Adapting to protocol v5.1 for kernel bf688e7b-dbfe-4e2d-8557-7f283af85f59
+[I 09:43:24.455 NotebookApp] Restoring connection for bf688e7b-dbfe-4e2d-8557-7f283af85f59:8d9138d8e0c74ac88d013b36667913c6
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 09:58:29.134 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 09:58:29.663 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 09:58:29.681 NotebookApp] JupyterLab extension loaded from /home/itlize/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 09:58:29.681 NotebookApp] JupyterLab application directory is /home/itlize/anaconda3/share/jupyter/lab
+[I 09:58:29.682 NotebookApp] Serving notebooks from local directory: /home/ItDev_Billy/NLP_contract
+[I 09:58:29.682 NotebookApp] The Jupyter Notebook is running at:
+[I 09:58:29.682 NotebookApp] http://(itlize-System-Product-Name or 127.0.0.1):8000/
+[I 09:58:29.682 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 09:58:51.700 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 09:58:51.700 NotebookApp] The port 8000 is already in use, trying another port.
+[I 09:58:51.718 NotebookApp] JupyterLab extension loaded from /home/itlize/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 09:58:51.718 NotebookApp] JupyterLab application directory is /home/itlize/anaconda3/share/jupyter/lab
+[I 09:58:51.719 NotebookApp] Serving notebooks from local directory: /home/ItDev_Billy/NLP_contract
+[I 09:58:51.719 NotebookApp] The Jupyter Notebook is running at:
+[I 09:58:51.719 NotebookApp] http://(itlize-System-Product-Name or 127.0.0.1):8001/
+[I 09:58:51.719 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:59:12.862 NotebookApp] 302 GET / (192.168.1.190) 1.26ms
+[W 09:59:12.874 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[W 09:59:12.875 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[I 09:59:12.875 NotebookApp] 302 GET /tree? (192.168.1.190) 2.41ms
+[W 09:59:16.253 NotebookApp] Not allowing login redirect to '/tree?'
+[I 09:59:16.254 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.190) 1.84ms
+[I 09:59:16.264 NotebookApp] 302 GET / (192.168.1.190) 0.64ms
+[I 09:59:17.199 NotebookApp] 302 GET / (192.168.1.232) 0.67ms
+[W 09:59:17.206 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[W 09:59:17.207 NotebookApp] Clearing invalid/expired login cookie username-192-168-1-217-8000
+[I 09:59:17.208 NotebookApp] 302 GET /tree? (192.168.1.232) 1.68ms
+[W 09:59:20.452 NotebookApp] Not allowing login redirect to '/tree?'
+[I 09:59:20.452 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.1.232) 1.71ms
+[I 09:59:20.459 NotebookApp] 302 GET / (192.168.1.232) 0.62ms
+[I 10:57:31.888 NotebookApp] Kernel started: 13b3c156-33ef-475a-9ab0-36634e866376
+[I 10:57:32.237 NotebookApp] Adapting to protocol v5.1 for kernel 13b3c156-33ef-475a-9ab0-36634e866376
+[I 11:00:54.260 NotebookApp] Kernel started: 201012c1-6ba1-4dcd-ac61-f7357519e7ca
+[I 11:00:54.637 NotebookApp] Adapting to protocol v5.1 for kernel 201012c1-6ba1-4dcd-ac61-f7357519e7ca
+[W 11:21:48.968 NotebookApp] Replacing stale connection: 201012c1-6ba1-4dcd-ac61-f7357519e7ca:f8bb72f983474e2985f38fc1ea8d9f90
+[I 11:21:53.971 NotebookApp] Starting buffering for 201012c1-6ba1-4dcd-ac61-f7357519e7ca:f8bb72f983474e2985f38fc1ea8d9f90
+[I 11:21:53.972 NotebookApp] Adapting to protocol v5.1 for kernel 201012c1-6ba1-4dcd-ac61-f7357519e7ca
+[I 11:21:53.973 NotebookApp] Restoring connection for 201012c1-6ba1-4dcd-ac61-f7357519e7ca:f8bb72f983474e2985f38fc1ea8d9f90
+[W 11:32:39.713 NotebookApp] Not allowing login redirect to '/tree?'
+[I 11:32:39.714 NotebookApp] 302 GET /login?next=%2Ftree%3F (192.168.1.190) 1.46ms
+[I 11:33:03.589 NotebookApp] Creating new notebook in 
+[I 11:33:04.603 NotebookApp] Kernel started: 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 11:33:04.955 NotebookApp] Adapting to protocol v5.1 for kernel 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 11:35:04.613 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:37:04.603 NotebookApp] Saving file at /df.ipynb
+[I 11:39:04.603 NotebookApp] Saving file at /df.ipynb
+[I 11:41:04.604 NotebookApp] Saving file at /df.ipynb
+[I 11:45:04.612 NotebookApp] Saving file at /df.ipynb
+[I 11:47:04.673 NotebookApp] Saving file at /df.ipynb
+[I 11:49:04.747 NotebookApp] Saving file at /df.ipynb
+[I 11:51:04.777 NotebookApp] Saving file at /df.ipynb
+[I 11:53:04.759 NotebookApp] Saving file at /df.ipynb
+[I 11:57:04.887 NotebookApp] Saving file at /df.ipynb
+[I 11:59:04.625 NotebookApp] Saving file at /df.ipynb
+[I 12:00:10.914 NotebookApp] Saving file at /df.ipynb
+[I 12:01:05.047 NotebookApp] Saving file at /df.ipynb
+[I 12:03:04.933 NotebookApp] Saving file at /df.ipynb
+[I 12:07:04.668 NotebookApp] Saving file at /df.ipynb
+[I 12:09:06.397 NotebookApp] Saving file at /df.ipynb
+[I 12:11:04.780 NotebookApp] Saving file at /df.ipynb
+[I 12:13:04.791 NotebookApp] Saving file at /df.ipynb
+[I 12:15:05.411 NotebookApp] Saving file at /df.ipynb
+[I 12:35:04.769 NotebookApp] Saving file at /df.ipynb
+[I 12:37:06.872 NotebookApp] Saving file at /df.ipynb
+[I 12:41:05.527 NotebookApp] Saving file at /df.ipynb
+[I 12:43:04.742 NotebookApp] Saving file at /df.ipynb
+[I 12:47:04.755 NotebookApp] Saving file at /df.ipynb
+[I 14:25:04.834 NotebookApp] Saving file at /df.ipynb
+[I 14:27:05.133 NotebookApp] Saving file at /df.ipynb
+[I 14:29:04.834 NotebookApp] Saving file at /df.ipynb
+[I 14:31:04.816 NotebookApp] Saving file at /df.ipynb
+[I 14:33:04.846 NotebookApp] Saving file at /df.ipynb
+[I 14:43:04.923 NotebookApp] Saving file at /df.ipynb
+[I 14:45:05.683 NotebookApp] Saving file at /df.ipynb
+[I 14:47:04.925 NotebookApp] Saving file at /df.ipynb
+[I 14:49:08.201 NotebookApp] Saving file at /df.ipynb
+[I 14:51:05.269 NotebookApp] Saving file at /df.ipynb
+[I 14:53:05.581 NotebookApp] Saving file at /df.ipynb
+[I 14:55:05.013 NotebookApp] Saving file at /df.ipynb
+[I 14:57:05.178 NotebookApp] Saving file at /df.ipynb
+[I 14:59:06.431 NotebookApp] Saving file at /df.ipynb
+[I 15:01:04.966 NotebookApp] Saving file at /df.ipynb
+[I 15:03:05.669 NotebookApp] Saving file at /df.ipynb
+[I 15:05:05.571 NotebookApp] Saving file at /df.ipynb
+[I 15:09:05.886 NotebookApp] Saving file at /df.ipynb
+[I 15:11:07.299 NotebookApp] Saving file at /df.ipynb
+[I 15:13:05.350 NotebookApp] Saving file at /df.ipynb
+[I 15:15:05.283 NotebookApp] Saving file at /df.ipynb
+[I 15:17:04.930 NotebookApp] Saving file at /df.ipynb
+[I 15:19:05.334 NotebookApp] Saving file at /df.ipynb
+[I 15:30:40.019 NotebookApp] Kernel interrupted: 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 15:30:40.144 NotebookApp] Kernel interrupted: 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 15:30:40.310 NotebookApp] Kernel interrupted: 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 15:30:40.477 NotebookApp] Kernel interrupted: 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 15:31:05.525 NotebookApp] Saving file at /df.ipynb
+[I 15:33:05.050 NotebookApp] Saving file at /df.ipynb
+[I 15:35:05.019 NotebookApp] Saving file at /df.ipynb
+[I 15:37:05.130 NotebookApp] Saving file at /df.ipynb
+[I 15:39:05.409 NotebookApp] Saving file at /df.ipynb
+[I 15:41:05.902 NotebookApp] Saving file at /df.ipynb
+[I 15:43:05.920 NotebookApp] Saving file at /df.ipynb
+[I 15:45:05.129 NotebookApp] Saving file at /df.ipynb
+[I 15:57:05.536 NotebookApp] Saving file at /df.ipynb
+[I 16:01:05.600 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:03:06.157 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:07:05.012 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:19:04.945 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:21:04.917 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:23:05.250 NotebookApp] Saving file at /clean dataframe.ipynb
+2019-08-28 16:23:14.844201: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcuda.so.1
+2019-08-28 16:23:14.991592: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 0 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:19:00.0
+2019-08-28 16:23:14.992771: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 1 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:1a:00.0
+2019-08-28 16:23:14.993911: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 2 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:67:00.0
+2019-08-28 16:23:14.995045: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 3 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:68:00.0
+2019-08-28 16:23:14.995220: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-08-28 16:23:14.996196: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+2019-08-28 16:23:14.997019: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcufft.so.10.0
+2019-08-28 16:23:14.997239: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcurand.so.10.0
+2019-08-28 16:23:14.998221: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusolver.so.10.0
+2019-08-28 16:23:14.999010: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusparse.so.10.0
+2019-08-28 16:23:15.001459: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudnn.so.7
+2019-08-28 16:23:15.010578: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1763] Adding visible gpu devices: 0, 1, 2, 3
+2019-08-28 16:23:15.010843: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-08-28 16:23:15.666998: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ea8f479a90 executing computations on platform CUDA. Devices:
+2019-08-28 16:23:15.667043: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): GeForce RTX 2080 Ti, Compute Capability 7.5
+2019-08-28 16:23:15.667054: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (1): GeForce RTX 2080 Ti, Compute Capability 7.5
+2019-08-28 16:23:15.667063: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (2): GeForce RTX 2080 Ti, Compute Capability 7.5
+2019-08-28 16:23:15.667072: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (3): GeForce RTX 2080 Ti, Compute Capability 7.5
+2019-08-28 16:23:15.690876: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2900000000 Hz
+2019-08-28 16:23:15.693237: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ea9240f9a0 executing computations on platform Host. Devices:
+2019-08-28 16:23:15.693281: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+2019-08-28 16:23:15.696866: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 0 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:19:00.0
+2019-08-28 16:23:15.699559: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 1 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:1a:00.0
+2019-08-28 16:23:15.702214: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 2 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:67:00.0
+2019-08-28 16:23:15.704835: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 3 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.545
+pciBusID: 0000:68:00.0
+2019-08-28 16:23:15.704910: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-08-28 16:23:15.704941: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+2019-08-28 16:23:15.704968: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcufft.so.10.0
+2019-08-28 16:23:15.704994: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcurand.so.10.0
+2019-08-28 16:23:15.705021: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusolver.so.10.0
+2019-08-28 16:23:15.705047: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusparse.so.10.0
+2019-08-28 16:23:15.705073: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudnn.so.7
+2019-08-28 16:23:15.719994: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1763] Adding visible gpu devices: 0, 1, 2, 3
+2019-08-28 16:23:15.720048: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-08-28 16:23:15.727017: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1181] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-08-28 16:23:15.727040: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1187]      0 1 2 3 
+2019-08-28 16:23:15.727046: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1200] 0:   N N N N 
+2019-08-28 16:23:15.727051: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1200] 1:   N N N N 
+2019-08-28 16:23:15.727066: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1200] 2:   N N N N 
+2019-08-28 16:23:15.727070: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1200] 3:   N N N N 
+2019-08-28 16:23:15.733262: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1326] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10283 MB memory) -> physical GPU (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:19:00.0, compute capability: 7.5)
+2019-08-28 16:23:15.734949: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1326] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10283 MB memory) -> physical GPU (device: 1, name: GeForce RTX 2080 Ti, pci bus id: 0000:1a:00.0, compute capability: 7.5)
+2019-08-28 16:23:15.736698: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1326] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 10283 MB memory) -> physical GPU (device: 2, name: GeForce RTX 2080 Ti, pci bus id: 0000:67:00.0, compute capability: 7.5)
+2019-08-28 16:23:15.738425: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1326] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 10224 MB memory) -> physical GPU (device: 3, name: GeForce RTX 2080 Ti, pci bus id: 0000:68:00.0, compute capability: 7.5)
+[I 16:25:04.914 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:27:05.250 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:29:04.945 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:31:04.931 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:35:04.925 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:37:05.001 NotebookApp] Saving file at /clean dataframe.ipynb
+2019-08-28 16:37:18.084540: W tensorflow/core/grappler/optimizers/implementation_selector.cc:199] Skipping optimization due to error while loading function libraries: Invalid argument: Functions '__inference___backward_standard_lstm_2075_2577' and '__inference___backward_cudnn_lstm_1582_1758_specialized_for_Adam_gradients_lstm_2_StatefulPartitionedCall_grad_StatefulPartitionedCall_at___inference_keras_scratch_graph_3291' both implement 'lstm_637d917d-cda1-40d0-bf65-89f59a1528b1' but their signatures do not match.
+2019-08-28 16:37:18.141255: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1483] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+2019-08-28 16:37:18.154495: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+2019-08-28 16:37:18.389920: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudnn.so.7
+2019-08-28 16:37:51.511981: W tensorflow/core/grappler/optimizers/implementation_selector.cc:199] Skipping optimization due to error while loading function libraries: Invalid argument: Functions '__inference___backward_standard_lstm_2075_2577' and '__inference___backward_cudnn_lstm_1582_1758_specialized_for_Adam_gradients_1_lstm_2_StatefulPartitionedCall_grad_StatefulPartitionedCall_at___inference_keras_scratch_graph_14651' both implement 'lstm_637d917d-cda1-40d0-bf65-89f59a1528b1' but their signatures do not match.
+[I 16:39:04.915 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:41:04.946 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:43:04.933 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:45:04.944 NotebookApp] Saving file at /clean dataframe.ipynb
+2019-08-28 16:45:52.684514: W tensorflow/core/grappler/optimizers/implementation_selector.cc:199] Skipping optimization due to error while loading function libraries: Invalid argument: Functions '__inference___backward_standard_lstm_118926_119428' and '__inference___backward_cudnn_lstm_118497_118673_specialized_for_Adam_gradients_2_lstm_3_StatefulPartitionedCall_grad_StatefulPartitionedCall_at___inference_keras_scratch_graph_120142' both implement 'lstm_1020032e-f1e5-456d-8324-6aa804ced351' but their signatures do not match.
+[I 16:47:05.310 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:49:05.350 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:51:04.970 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:53:04.948 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:57:06.436 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:59:05.005 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 16:59:14.903 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:03:04.969 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:05:04.979 NotebookApp] Saving file at /clean dataframe.ipynb
+2019-08-28 17:05:52.567326: W tensorflow/core/grappler/optimizers/implementation_selector.cc:199] Skipping optimization due to error while loading function libraries: Invalid argument: Functions '__inference___backward_cudnn_lstm_223724_223900_specialized_for_Adam_gradients_3_lstm_4_StatefulPartitionedCall_grad_StatefulPartitionedCall_at___inference_keras_scratch_graph_225369' and '__inference___backward_cudnn_lstm_223724_223900' both implement 'lstm_a319e95e-99de-472f-a82c-2d9dc85d9dcd' but their signatures do not match.
+[I 17:07:05.022 NotebookApp] Saving file at /clean dataframe.ipynb
+2019-08-28 17:08:12.821777: W tensorflow/core/grappler/optimizers/implementation_selector.cc:199] Skipping optimization due to error while loading function libraries: Invalid argument: Functions '__inference___backward_cudnn_lstm_257011_257187_specialized_for_Adam_gradients_4_lstm_5_StatefulPartitionedCall_grad_StatefulPartitionedCall_at___inference_keras_scratch_graph_258656' and '__inference___backward_cudnn_lstm_257011_257187' both implement 'lstm_8eda6152-4d0a-4fa4-805a-f17afb16ef48' but their signatures do not match.
+[I 17:09:04.948 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:11:04.923 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:13:05.009 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:13:54.730 NotebookApp] Starting buffering for 201012c1-6ba1-4dcd-ac61-f7357519e7ca:f8bb72f983474e2985f38fc1ea8d9f90
+[I 17:13:54.731 NotebookApp] Starting buffering for 13b3c156-33ef-475a-9ab0-36634e866376:097c3f4be3b2483a89522ae83b592357
+[I 17:15:05.278 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:17:04.929 NotebookApp] Saving file at /clean dataframe.ipynb
+[I 17:20:48.934 NotebookApp] Starting buffering for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[I 17:20:50.189 NotebookApp] Adapting to protocol v5.1 for kernel 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 17:20:50.190 NotebookApp] Restoring connection for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[I 17:21:04.792 NotebookApp] Starting buffering for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[I 17:21:06.625 NotebookApp] Adapting to protocol v5.1 for kernel 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 17:21:06.627 NotebookApp] Restoring connection for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[W 17:23:36.628 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 17:23:41.631 NotebookApp] Starting buffering for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[I 17:28:34.266 NotebookApp] Adapting to protocol v5.1 for kernel 1249de32-3e7d-4348-913f-5f27473b2a93
+[I 17:28:34.267 NotebookApp] Restoring connection for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[W 17:30:04.270 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 17:30:09.272 NotebookApp] Starting buffering for 1249de32-3e7d-4348-913f-5f27473b2a93:fa4c3b7fe3694b0e99ae0280655a11df
+[I 10:15:03.412 NotebookApp] Adapting to protocol v5.1 for kernel 13b3c156-33ef-475a-9ab0-36634e866376
+[I 10:15:03.413 NotebookApp] Restoring connection for 13b3c156-33ef-475a-9ab0-36634e866376:097c3f4be3b2483a89522ae83b592357
+[I 10:15:03.448 NotebookApp] Adapting to protocol v5.1 for kernel 201012c1-6ba1-4dcd-ac61-f7357519e7ca
+[I 10:15:03.449 NotebookApp] Restoring connection for 201012c1-6ba1-4dcd-ac61-f7357519e7ca:f8bb72f983474e2985f38fc1ea8d9f90
+[I 15:14:58.694 NotebookApp] 302 GET / (192.168.1.232) 0.90ms
+[I 16:23:43.492 NotebookApp] Starting buffering for 13b3c156-33ef-475a-9ab0-36634e866376:097c3f4be3b2483a89522ae83b592357
+[I 16:23:43.492 NotebookApp] Starting buffering for 201012c1-6ba1-4dcd-ac61-f7357519e7ca:f8bb72f983474e2985f38fc1ea8d9f90
+[W 10:50:50.730 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 10:50:50.730 NotebookApp] The port 8000 is already in use, trying another port.
+[I 10:50:50.730 NotebookApp] The port 8001 is already in use, trying another port.
+[I 10:50:50.748 NotebookApp] JupyterLab extension loaded from /home/itlize/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 10:50:50.748 NotebookApp] JupyterLab application directory is /home/itlize/anaconda3/share/jupyter/lab
+[I 10:50:50.749 NotebookApp] Serving notebooks from local directory: /home/ItDev_Billy/NLP_contract
+[I 10:50:50.749 NotebookApp] The Jupyter Notebook is running at:
+[I 10:50:50.749 NotebookApp] http://(itlize-System-Product-Name or 127.0.0.1):8002/
+[I 10:50:50.749 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:51:11.489 NotebookApp] 302 GET / (192.168.1.190) 0.97ms
+[I 10:51:31.544 NotebookApp] Interrupted...
+[I 10:51:31.544 NotebookApp] Shutting down 0 kernels
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.

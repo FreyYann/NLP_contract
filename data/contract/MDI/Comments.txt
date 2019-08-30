@@ -1,0 +1,3 @@
+Point 16.3- With Monthly invoicing we can accept NET 30 as payment terms (Please have this changed in exhibit as well). Also, please add the following lines added to the clause “All approved timesheets will be considered as work accepted by client, MDI will not reduce or adjust any future payments for payments made on approved timesheets”.
+Point 17- Please have “indirectly” removed from the clause. For the clients of MDI we may have now or in future our own vendor’s providing similar services to the clients.
+Point 26- Please have termination notice for supplier added as well “ Supplier may terminate this agreement or any associated Exhibit/SOW, WITH OR WITHOUT CAUSE by providing two weeks written notice to MDI.
